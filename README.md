@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sushant Chowdhary</h1>
-<h3 align="center">I'm a fourth-year B.Tech in Information Technology student at Manipal University Jaipur, India. My true passion lies in Android and game development. I love creating user-friendly apps and captivating games, and I'm constantly seeking opportunities to learn and grow in the tech world. With a strong desire to make a positive impact, I'm excited to see where my journey takes me next.</h3>
+<h3 align="center">an Android Developer at LTIMindtree with hands-on experience in Kotlin, Jetpack Compose, Firebase, and MVVM architecture. I love building impactful mobile apps, from e-commerce solutions with machine learning and secure payments to smart tracker utilities, always aiming for performance, reliability, and great user experiences. I enjoy collaborating across teams and constantly learning new tech to solve real-world problems.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushant690&label=Profile%20views&color=0e75b6&style=flat" alt="sushant690" /> </p>
