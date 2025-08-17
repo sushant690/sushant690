@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sushant Chowdhary</h1>
-<h3 align="center">an Android Developer at LTIMindtree with hands-on experience in Kotlin, Jetpack Compose, Firebase, and MVVM architecture. I love building impactful mobile apps, from e-commerce solutions with machine learning and secure payments to smart tracker utilities, always aiming for performance, reliability, and great user experiences. I enjoy collaborating across teams and constantly learning new tech to solve real-world problems.</h3>
+<h3 align="center">An Android Developer at LTIMindtree with hands-on experience in Kotlin, Jetpack Compose, Firebase, and MVVM architecture. I love building impactful mobile apps, from e-commerce solutions with machine learning and secure payments to smart tracker utilities, always aiming for performance, reliability, and great user experiences. I enjoy collaborating across teams and constantly learning new tech to solve real-world problems.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushant690&label=Profile%20views&color=0e75b6&style=flat" alt="sushant690" /> </p>
